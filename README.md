@@ -1,1 +1,1 @@
-# git-conflict-challenge
+# git-conflict-challenge     autre façon de modifier par git
